@@ -1,0 +1,11 @@
+/bin/
+/target/
+.classpath
+.project
+/.settings/
+/input/
+/output/
+/logs/
+/img_repo/
+test.html
+/tmp/
